@@ -1,2 +1,2 @@
 # AlexaAPL_CSharp
-How to create a C# Alexa skill using VS code
+How to create a C# APL Alexa skill using VS code
